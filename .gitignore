@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/AuthorisationAndSQLRequest/build/
+/AuthorisationAndSQLRequest/build/classes/java/main/
+/AuthorisationAndSQLRequest/build/classes/java/test/
+/BaseQuery/build/
+/BaseQuery/build/classes/java/main/
+/build/
+/Client/build/
+/Client/build/classes/java/main/
+/MessagingProtocol/build/
+/MessagingProtocol/build/classes/java/main/
+/ServerNIO/build/
+/ServerNIO/build/classes/java/main/
